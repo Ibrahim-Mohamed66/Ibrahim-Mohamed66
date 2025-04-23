@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 - 🛠 **Tech Stack:**  
-  C#, .NET, EF Core, WinForms, LINQ, MS SQL Server, HTML, CSS, ASP.NET MVC, Web API, RESTful API
+  C#, .NET Core, EF Core, WinForms, LINQ, MS SQL Server, HTML, CSS, ASP.NET MVC, Web API, RESTful API
 
 - 🧱 **Architecture & Patterns:**  
   Clean Architecture, SOLID Principles, Repository Pattern, Unit of Work, Dependency Injection, Layered Architecture, and other Design Patterns
