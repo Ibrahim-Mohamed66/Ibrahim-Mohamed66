@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Ibrahim-Mohamed66  
-- 👀 I’m interested in web development, backend engineering, and building impactful full-stack applications.  
-- 🌱 I’m currently learning advanced .NET development, cloud integration (Azure), and design patterns.  
-- 💞️ I’m looking to collaborate on open-source .NET projects, real-world e-commerce apps, or anything creative and backend-heavy.  
-- 📫 How to reach me: ibrahim.mohamed6605@gmail.com (or via LinkedIn if you prefer).  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I built my first real app for fun — and now I can't stop building more!
+<!-- Typing animation header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=5FB0FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there+%F0%9F%91%8B+I'm+Ibrahim+Mohamed;Full+Stack+.NET+Developer+%7C+Backend+Lover;Always+building+clean%2C+scalable+apps+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+```csharp
+FullStackDev ibrahim = new() {
+    Languages = new[] { "C#", "JavaScript", "SQL" },
+    Frameworks = new[] { ".NET", "Entity Framework", "Blazor", "WinForms" },
+    CurrentlyLearning = "Azure, Clean Architecture",
+    FunFact = "I started with front-end... now I live in the backend 🚀"
+};
+
 
 
 <!---
