@@ -6,11 +6,24 @@
 
 ### 👨‍💻 About Me
 
-- 🛠 Tech: C#, .NET, EF Core, WinForms, LINQ , MS SQL Server, Html , CSS   
-- 🌱 Learning: Azure & Clean Architecture  
-- 🤝 Collab: Open-source or full-stack projects  
-- 📫 Reach me: **ibrahim.mohamed6605@gmail.com**  
-- ⚡ Fun fact: I accidentally became a backend guy 😎
+- 🛠 **Tech Stack:**  
+  C#, .NET, EF Core, WinForms, LINQ, MS SQL Server, HTML, CSS, ASP.NET MVC, Web API, RESTful API
+
+- 🧱 **Architecture & Patterns:**  
+  Clean Architecture, SOLID Principles, Repository Pattern, Unit of Work, Dependency Injection, Layered Architecture, and other Design Patterns
+
+- 🌱 **Currently Learning:**  
+  Azure Cloud Services & Scalable Architecture Patterns
+
+- 🤝 **Looking to Collaborate On:**  
+  Open-source projects, backend systems, or full-stack applications
+
+- 📫 **Reach Me At:**  
+  [ibrahim.mohamed6605@gmail.com](mailto:ibrahim.mohamed6605@gmail.com)
+
+- ⚡ **Fun Fact:**  
+  I accidentally became a backend guy — now I love clean code and architecture 😎
+
 
 
 
