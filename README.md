@@ -1,19 +1,17 @@
-<!-- Typing animation header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=5FB0FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there+%F0%9F%91%8B+I'm+Ibrahim+Mohamed;Full+Stack+.NET+Developer+%7C+Backend+Lover;Always+building+clean%2C+scalable+apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5FB0FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Ibrahim+Mohamed;Backend+.NET+Developer;" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-```csharp
-FullStackDev ibrahim = new() {
-    Languages = new[] { "C#", "JavaScript", "SQL" },
-    Frameworks = new[] { ".NET", "Entity Framework", "Blazor", "WinForms" },
-    CurrentlyLearning = "Azure, Clean Architecture",
-    FunFact = "I started with front-end... now I live in the backend 🚀"
-};
+- 🛠 Tech: C#, .NET, EF Core, WinForms, LINQ , MS SQL Server, Html , CSS   
+- 🌱 Learning: Azure & Clean Architecture  
+- 🤝 Collab: Open-source or full-stack projects  
+- 📫 Reach me: **ibrahim.mohamed6605@gmail.com**  
+- ⚡ Fun fact: I accidentally became a backend guy 😎
+
 
 
 
