@@ -22,7 +22,7 @@
   [ibrahim.mohamed6605@gmail.com](mailto:ibrahim.mohamed6605@gmail.com)
 
 - ⚡ **Fun Fact:**  
-  I accidentally became a backend guy — now I love clean code and architecture 😎
+  I accidentally became a backend guy  😎
 
 
 
